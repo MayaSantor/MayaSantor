@@ -1,9 +1,9 @@
 ## Hi there, I'm Mayara Cortes, but you can call me Maya! 😊 👋
 
 
-- 🔭 I’m currently working with requirements analysis and quality testing.
-- 🌱 I’m currently learning about frontend development and user experience.
-- 😄 Pronouns: she/her
+- 💼 I work in requirements analysis and quality testing, bridging the gap between clients and development teams.
+- 🌱 I’m currently diving deeper into frontend development and user experience design. Feel free to check out some of my projects below!
+- 😄 Pronouns: she/her.
 
 <div>
 <a href="https://github.com/MayaSantor">
